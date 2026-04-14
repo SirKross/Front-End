@@ -1,0 +1,110 @@
+body {
+    background-color: rgb(52, 56, 56);
+}
+
+.container {
+    position: relative;
+    background-color: rgb(189, 23, 23);
+    border: 5px solid rgb(119, 7, 31);
+    margin: 0 auto;
+    width: 800px;
+    height: 400px;
+    padding: 30px;
+}
+
+.titulo {
+    position: relative;
+    text-align: center;
+    border: 5px solid rgb(119, 7, 31);
+    margin-top: -5px;
+    margin-left: -5px;
+    margin-right: -5px;
+    font-family: 'Courier New';
+
+}
+
+.header {
+    position: relative;
+    display: flex;
+    font-family: 'Courier New';
+    border: 5px solid rgb(119, 7, 31);
+    margin-top: -5px;
+    margin-left: -5px;
+    margin-right: -5px;
+    margin-bottom: -5px;
+}
+
+.team1 {
+    position: absolute;
+    margin-left: 10px;
+}
+
+.team2 {
+    position: absolute;
+    margin-left: 510px;
+}
+
+.container2 {
+    position: relative;
+    display: flex;
+    border: 5px solid rgb(119, 7, 31);
+    width: 800px;
+    height: 200px;
+    margin-top: -5px;
+    margin-left: -5px;
+    margin-right: -5px;
+}
+
+.cont1 {
+    font-family: 'Courier New';
+    display: flex;
+    border: 5px solid rgb(119, 7, 31);
+    margin-top: -5px;
+    margin-left: -5px;
+    margin-right: -5px;
+    margin-bottom: -5px;
+    padding: 10px;
+}
+
+.cont2 {
+    font-family: 'Courier New';
+    display: flex;
+    border: 5px solid rgb(119, 7, 31);
+    margin-top: -5px;
+    margin-left: -5px;
+    margin-right: -5px;
+    margin-bottom: -5px;
+    padding: 10px;
+}
+
+.madrid {
+    width: 100px;
+    height: 100px;
+}
+
+.barza {
+    width: 100px;
+    height: 100px;
+}
+
+.footer {
+    position: relative;
+    display: flex;
+    border: 5px solid rgb(119, 7, 31);
+    width: 800px;
+    height: 100px;
+    margin-top: -5px;
+    margin-left: -5px;
+    margin-right: -5px;
+    margin-bottom: -5px;
+}
+
+.footer1 {
+    position: absolute;
+    margin-left: 10px;
+}
+
+.footer2 {
+    position: absolute;
+    margin-left: 510px;
+}
